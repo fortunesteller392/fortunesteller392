@@ -1,4 +1,4 @@
-![](https://github.com/techexpert0119/techexpert0119/blob/main/assets/header_1.png)
+![](https://github.com/fortunesteller392/fortunesteller392/blob/main/assets/header_1.png)
 
 <h2 align="center">
   <a href="https://git.io/typing-svg">
@@ -7,7 +7,7 @@
 </h2>
 
 <p align="center"><b>
-I'm a result-driven tech expert and enthusiastic senior full stack web developer with 9+ years of hands-on experience designing, developing, and implementing web applications and solutions using various technical stacks and programming languages.</b>
+I'm a result-driven tech expert and enthusiastic senior full stack web developer with 10+ years of hands-on experience designing, developing, and implementing web applications and solutions using various technical stacks and programming languages.</b>
 </p>
 
 <h3>🔥 My strong skillsets</h3>
@@ -36,6 +36,9 @@ I'm a result-driven tech expert and enthusiastic senior full stack web developer
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=django" alt="icon" width="24" height="24" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=flask" alt="icon" width="24" height="24" />
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=github" alt="icon" width="24" height="24" />
@@ -123,7 +126,48 @@ I'm a result-driven tech expert and enthusiastic senior full stack web developer
     <td align="center">
       <img src="https://skillicons.dev/icons?i=kubernetes" width="24" height="24" alt="" />
     </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=androidstudio" width="24" height="24" alt="" />
+    </td>
  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=webpack" width="24" height="24" alt="" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=vercel" width="24" height="24" alt="" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=threejs" width="24" height="24" alt="" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=sequelize" width="24" height="24" alt="" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=styledcomponents" width="24" height="24" alt="" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=redis" width="24" height="24" alt="" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=nginx" width="24" height="24" alt="" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=jenkins" width="24" height="24" alt="" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=java" width="24" height="24" alt="" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=gcp" width="24" height="24" alt="" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=figma" width="24" height="24" alt="" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=babel" width="24" height="24" alt="" />
+    </td>
+  </tr>
 </table>
 
 <hr>
@@ -150,9 +194,6 @@ I'm a result-driven tech expert and enthusiastic senior full stack web developer
   </tr>
 </table>
 <hr>
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=techexpert0119&count_private=true&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=techexpert0119&layout=compact)](https://github.com/techexpert0119/slate-app-mern)
 
 <div align="center">
   <img height="120" src="https://user-images.githubusercontent.com/123120185/257965076-a45fbf30-104f-4dea-b41f-4babd28f92d2.svg"  />
